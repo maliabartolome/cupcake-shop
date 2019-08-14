@@ -1,0 +1,34 @@
+h1 {
+  text-align: center;
+  color: 	#FFA07A;
+  font: sans-serif;
+}
+
+p {
+  text-align: center;
+  color: #AFEEEE;
+  font: sans-serif;
+}
+
+h2 {
+  text-align: center;
+  color: #DEB887;
+  font: sans-serif;
+}
+
+ul {
+  text-align: center;
+  color: 	#FFA07A;
+  font: sans-serif;
+  list-style: none;
+}
+
+li {
+  text-align: center;
+  color: 	#FFA07A;
+  font: sans-serif;
+}
+
+a:link {
+  color: #FFA07A;
+}
